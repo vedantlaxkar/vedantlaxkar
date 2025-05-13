@@ -21,7 +21,7 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 ### 🚀 Skills & Experience Over Time:
 
 - **Machine Learning & Data Science Projects:**  
-  Worked on a range of machine learning models including classification, regression, and clustering. Built complete pipelines and explored real-world datasets. Check out my [GitHub projects](https://github.com/vedantlaxkar/Spftraw).
+  Worked on a range of machine learning models including classification, regression, and clustering. Built complete pipelines and explored real-world datasets. Check out my [GitHub projects](https://github.com/vedantlaxkar/Softraw).
 
 - **Deep Learning & Neural Networks:**  
   Built and trained deep learning models using TensorFlow and Keras for tasks like image classification and sequence modeling.
