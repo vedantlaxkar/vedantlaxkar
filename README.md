@@ -18,16 +18,44 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 
 [![LinkedIn](https://img.shields.io/twitter/url?label=Follow%20%40vedant-laxkar-128107259/&logo=linkedin&style=social&url=https://www.linkedin.com/in/vedant-laxkar-128107259/)](https://www.linkedin.com/in/vedant-laxkar-128107259/)
 
-### Working on: 🚀
-- **Data Science/Machine Learning Projects:** Developing and refining machine learning models, including predictive analytics and deep learning applications. Check out my [GitHub projects](https://github.com/vedantlaxkar/).
-- **Reinforcement Learning:** Experimenting with RL algorithms to solve complex decision-making problems.
-- **Data Preprocessing:** Mastering techniques for data cleaning, feature engineering, and transformation to ensure high-quality inputs for machine learning models.
-- **Exploratory Data Analysis (EDA):** Utilizing tools like Pandas, Matplotlib, and Seaborn to uncover insights and patterns in datasets, and to visualize the relationships between variables.
-- **Model Evaluation and Tuning:** Learning to evaluate model performance using metrics such as accuracy, precision, recall, and F1-score. Applying techniques like cross-validation, grid search, and random search to tune hyperparameters.
-- **LeetCode Practice:** Continuously solving problems to enhance problem-solving skills and algorithmic thinking.
-- **Learning SQL for Data Queries:** Acquiring skills in SQL to efficiently query and manipulate large datasets from relational databases.
-- **Building Data Pipelines:** Understanding the process of building robust data pipelines to automate data collection, processing, and analysis tasks.
-- **Basic DSA:** Learning and implementing basic data structures and algorithms.
+### 🚀 Skills & Experience Over Time:
+
+- **Machine Learning & Data Science Projects:**  
+  Worked on a range of machine learning models including classification, regression, and clustering. Built complete pipelines and explored real-world datasets. Check out my [GitHub projects](https://github.com/vedantlaxkar/).
+
+- **Deep Learning & Neural Networks:**  
+  Built and trained deep learning models using TensorFlow and Keras for tasks like image classification and sequence modeling.
+
+- **Reinforcement Learning:**  
+  Explored RL concepts and implemented foundational algorithms to understand reward-based learning and policy optimization.
+
+- **Data Preprocessing & Feature Engineering:**  
+  Applied techniques like normalization, encoding, and feature selection to prepare high-quality datasets for modeling.
+
+- **Exploratory Data Analysis (EDA):**  
+  Used Pandas, Matplotlib, and Seaborn to discover trends, correlations, and visual insights from complex datasets.
+
+- **Model Evaluation & Optimization:**  
+  Evaluated models using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. Tuned hyperparameters using grid search, random search, and cross-validation.
+
+- **Problem-Solving & DSA:**  
+  Strengthened logical thinking and algorithmic skills through platforms like LeetCode and HackerRank.
+
+- **SQL for Data Handling:**  
+  Gained proficiency in SQL for querying, joining, and managing large datasets in relational databases.
+
+- **Data Pipeline Development:**  
+  Understood the workflow of building automated pipelines for data ingestion, transformation, and analysis.
+
+- **Version Control with Git & GitHub:**  
+  Experienced in using Git and GitHub for version control, collaboration, and project management.
+
+- **Computer Vision & OCR:**  
+  Worked on image processing using OpenCV and text extraction using Tesseract OCR.
+
+- **Libraries & Tools:**  
+  `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `OpenCV`, `Tesseract`, `SQL`, `Keras`, `Jupyter`, `Git`, `VS Code`
+
 
 ### Languages and Tools
 
