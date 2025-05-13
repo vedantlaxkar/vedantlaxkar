@@ -11,9 +11,10 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 <!-- ### Social media: 📡    
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/RaghavK80739117.svg?style=social&label=Follow%20%40RaghavK80739117)](https://twitter.com/RaghavK80739117) -->
  
-[![LeetCode](https://img.shields.io/twitter/url?label=Follow%20%40Vedantlaxkar684&logo=leetcode&style=social&url=https://leetcode.com/vedantlaxkar684)](https://leetcode.com/vedantlaxkar684)
+# [![LeetCode](https://img.shields.io/twitter/url?label=Follow%20%40Vedantlaxkar684&logo=leetcode&style=social&url=https://leetcode.com/vedantlaxkar684)](https://leetcode.com/vedantlaxkar684)
 
-[![Stack Overflow](https://img.shields.io/twitter/url?label=Follow%20%4025406978/vedant-laxkar&logo=stackoverflow&style=social&url=https://stackoverflow.com/users/25406978/vedant-laxkar)](https://stackoverflow.com/users/25540194/vedant-laxkar)
+# [![Stack Overflow](https://img.shields.io/twitter/url?label=Follow%20%4025406978/vedant-laxkar&logo=stackoverflow&style=social&url=https://stackoverflow.com/users/25406978/vedant-laxkar)](https://stackoverflow.com/users/25540194/vedant-laxkar)
+
 
 [![LinkedIn](https://img.shields.io/twitter/url?label=Follow%20%40vedant-laxkar-128107259/&logo=linkedin&style=social&url=https://www.linkedin.com/in/vedant-laxkar-128107259/)](https://www.linkedin.com/in/vedant-laxkar-128107259/)
 
