@@ -11,15 +11,15 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 <!-- ### Social media: 📡    
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/RaghavK80739117.svg?style=social&label=Follow%20%40RaghavK80739117)](https://twitter.com/RaghavK80739117) -->
  
-# [![LeetCode](https://img.shields.io/twitter/url?label=Follow%20%40Vedantlaxkar684&logo=leetcode&style=social&url=https://leetcode.com/vedantlaxkar684)](https://leetcode.com/vedantlaxkar684)
+ <!--[![LeetCode](https://img.shields.io/twitter/url?label=Follow%20%40Vedantlaxkar684&logo=leetcode&style=social&url=https://leetcode.com/vedantlaxkar684)](https://leetcode.com/vedantlaxkar684)
 
-# [![Stack Overflow](https://img.shields.io/twitter/url?label=Follow%20%4025406978/vedant-laxkar&logo=stackoverflow&style=social&url=https://stackoverflow.com/users/25406978/vedant-laxkar)](https://stackoverflow.com/users/25540194/vedant-laxkar)
+[![Stack Overflow](https://img.shields.io/twitter/url?label=Follow%20%4025406978/vedant-laxkar&logo=stackoverflow&style=social&url=https://stackoverflow.com/users/25406978/vedant-laxkar)](https://stackoverflow.com/users/25540194/vedant-laxkar) -->
 
 
 [![LinkedIn](https://img.shields.io/twitter/url?label=Follow%20%40vedant-laxkar-128107259/&logo=linkedin&style=social&url=https://www.linkedin.com/in/vedant-laxkar-128107259/)](https://www.linkedin.com/in/vedant-laxkar-128107259/)
 
 ### Working on: 🚀
-- **Data Science/Machine Learning Projects:** Developing and refining machine learning models, including predictive analytics and deep learning applications. Check out my [GitHub projects](https://github.com/vedantlaxkar/SoftRawIntern).
+- **Data Science/Machine Learning Projects:** Developing and refining machine learning models, including predictive analytics and deep learning applications. Check out my [GitHub projects](https://github.com/vedantlaxkar/).
 - **Reinforcement Learning:** Experimenting with RL algorithms to solve complex decision-making problems.
 - **Data Preprocessing:** Mastering techniques for data cleaning, feature engineering, and transformation to ensure high-quality inputs for machine learning models.
 - **Exploratory Data Analysis (EDA):** Utilizing tools like Pandas, Matplotlib, and Seaborn to uncover insights and patterns in datasets, and to visualize the relationships between variables.
@@ -38,9 +38,9 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 
 ### Best frameworks and main libraries for Python3:
 
-| TensorFlow | Numpy | Pandas | Sklearn | OpenCV |
-|------------|-------|--------|---------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/> |
+| TensorFlow | Numpy | Pandas | Sklearn | OpenCV | Tesseract OCR |
+|------------|-------|--------|---------|--------|---------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/> | < img src="https://github.com/devicons/devicon/blob/master/icons/Tesseract/Tesseract-original.svg" title="Tesseract" alt="Tesseract" width="70" height="70"/> |
 
 ### My tools for Data Manipulation & Visualisation:
 
