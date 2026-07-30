@@ -1,0 +1,9 @@
+[
+  {
+    "name": "AdPatterns AI",
+    "repo": "YOUR_GITHUB_USERNAME/adpatterns-ai",
+    "logo": "logo.png",
+    "description": "A Meta Ads intelligence platform running local LLM inference (Llama 3.1 8B via Ollama)",
+    "tags": ["Python", "PyTorch", "Ollama", "FastAPI"]
+  }
+]
