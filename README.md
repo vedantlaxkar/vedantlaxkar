@@ -1,77 +1,69 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+# Hello, I'm Vedant Laxkar! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/main/light.svg">
-  <img alt="Vedant Laxkar" src="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/main/light.svg">
-</picture>
+I'm a passionate data scientist with expertise in Python, AI, and machine learning.
 
-<!-- ===== GITHUB STATS ===== -->
+### About Me:
+- 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
+- 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms.
 
-<div align="center">
+- Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://vedantlaxkar.github.io/)
 
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Vedant's streak" />
-</picture>
+<!-- ### Social media: 📡    
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/RaghavK80739117.svg?style=social&label=Follow%20%40RaghavK80739117)](https://twitter.com/RaghavK80739117) -->
+ 
+[![LeetCode](https://img.shields.io/twitter/url?label=Follow%20%40Vedantlaxkar684&logo=leetcode&style=social&url=https://leetcode.com/vedantlaxkar684)](https://leetcode.com/vedantlaxkar684)
 
-<br/>
+[![Stack Overflow](https://img.shields.io/twitter/url?label=Follow%20%4025406978/vedant-laxkar&logo=stackoverflow&style=social&url=https://stackoverflow.com/users/25406978/vedant-laxkar)](https://stackoverflow.com/users/25406978/vedant-laxkar)
 
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=vedantlaxkarE&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=vedantlaxkar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Vedant's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=vedantlaxkar&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?usernamevedantlaxkar&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
+[![LinkedIn](https://img.shields.io/twitter/url?label=Follow%20%40vedant-laxkar-128107259/&logo=linkedin&style=social&url=https://www.linkedin.com/in/vedant-laxkar-128107259/)](https://www.linkedin.com/in/vedant-laxkar-128107259/)
 
+### Working on: 🚀
+- **Data Science/Machine Learning Projects:** Developing and refining machine learning models, including predictive analytics and deep learning applications. Check out my [GitHub projects](https://github.com/vedantlaxkar?tab=repositories).
+- **Reinforcement Learning:** Experimenting with RL algorithms to solve complex decision-making problems.
+- **Data Preprocessing:** Mastering techniques for data cleaning, feature engineering, and transformation to ensure high-quality inputs for machine learning models.
+- **Exploratory Data Analysis (EDA):** Utilizing tools like Pandas, Matplotlib, and Seaborn to uncover insights and patterns in datasets, and to visualize the relationships between variables.
+- **Model Evaluation and Tuning:** Learning to evaluate model performance using metrics such as accuracy, precision, recall, and F1-score. Applying techniques like cross-validation, grid search, and hyperparameter optimization.
+- **LeetCode Practice:** Continuously solving problems to enhance problem-solving skills and algorithmic thinking.
+- **Learning SQL for Data Queries:** Acquiring skills in SQL to efficiently query and manipulate large datasets from relational databases.
+- **Building Data Pipelines:** Understanding the process of building robust data pipelines to automate data collection, processing, and analysis tasks.
+- **Basic DSA:** Learning and implementing basic data structures and algorithms.
+
+### Languages and Tools
+
+#### Languages:
+| Python3 | C |
+|---------|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="70" height="70"/> |
+
+### Best frameworks and main libraries for Python3:
+
+| TensorFlow | Numpy | Pandas | Sklearn | OpenCV |
+|------------|-------|--------|---------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="Sklearn" alt="Sklearn" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="70" height="70"/> |
+
+### My tools for Data Manipulation & Visualisation:
+
+| Conda | Jupyter | MySQL | Matplotlib |
+|-------|---------|-------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="70" height="70"/> |
+
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vedantlaxkar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vedantlaxkar&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantlaxkar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedantlaxkar&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/output/snake-light.svg" />
-</picture>
-
-</div>
-
-<!-- ===== END SNAKE ===== -->
-<br/>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/vedantlaxkar/vedantlaxkar/projects/projects.svg" alt="Projects" />
-</div>
-
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vedant-laxkar-128107259/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_the.vedant/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/YOUR_FACEBOOK_HANDLE">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vedantlaxkar684@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
-</div>
-
-<!-- ===== END SOCIAL BADGES ===== -->
-
-<!-- =================================== -->
+<p align="center">
+ <img width="1000" src="https://github.com/vedantlaxkar/vedantlaxkar/raw/main/assets/github-snake.svg" alt="snake"/>
+</p>
